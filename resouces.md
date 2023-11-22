@@ -1,0 +1,7 @@
+- https://forum.openwrt.org/t/anyone-working-on-tp-link-eap225/33956/48
+- https://openwrt.org/toh/tp-link/eap225
+- https://forum.openwrt.org/t/bricked-eap225-wall-trying-to-flash-back-to-original-firmware/143061
+- https://forum.openwrt.org/u/svanheule/summary
+- https://lxr.openwrt.org/source/firmware-utils/src/tplink-safeloader.c
+- https://forum.openwrt.org/t/eap225-v3-flash-to-stock-firmware-attempt/95896
+- https://forum.openwrt.org/t/eap225-wall-recovery/79451
