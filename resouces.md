@@ -5,3 +5,4 @@
 - https://lxr.openwrt.org/source/firmware-utils/src/tplink-safeloader.c
 - https://forum.openwrt.org/t/eap225-v3-flash-to-stock-firmware-attempt/95896
 - https://forum.openwrt.org/t/eap225-wall-recovery/79451
+- https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=b0ecae504b58bf65627138fe14eb605ad77224c9
