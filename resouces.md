@@ -7,3 +7,4 @@
 - https://forum.openwrt.org/t/eap225-wall-recovery/79451
 - https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=b0ecae504b58bf65627138fe14eb605ad77224c9
 - https://fccid.io/TE7EAP225V3/Internal-Photos/TE7EAP225V3-Internal-photo-1108-3637955
+- https://openwrt.org/toh/hwdata/tp-link/tp-link_eap225_v3
